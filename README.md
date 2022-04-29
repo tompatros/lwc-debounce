@@ -1,0 +1,1 @@
+A tiny utility class for debouncing input fields in LWCs.
